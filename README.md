@@ -1,2 +1,2 @@
 ## Тестовое задание
-resource/view/welcome.blade.
+resources/views/welcome.blade.php
